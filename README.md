@@ -1,9 +1,3 @@
+![giphy](https://user-images.githubusercontent.com/53111065/198847116-9c772eb5-8fe1-45f7-bedc-aed677e93320.gif)
 
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-
-![App Screenshot](https://media.giphy.com/media/4jmWcbRuOPKAUZMNi3/giphy-downsized-large.gif)
 
